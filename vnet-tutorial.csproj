@@ -5,6 +5,7 @@
     <RootNamespace>vnet_tutorial</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="azure.storage.blobs" Version="12.14.1" />
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.ServiceBus" Version="5.8.1" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.1.3" />
   </ItemGroup>

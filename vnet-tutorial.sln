@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vnet-tutorial", "vnet-tutorial.csproj", "{0EEF6775-F414-406F-93C0-5D8220836178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEF6775-F414-406F-93C0-5D8220836178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEF6775-F414-406F-93C0-5D8220836178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEF6775-F414-406F-93C0-5D8220836178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEF6775-F414-406F-93C0-5D8220836178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAB701D-3617-4B8A-A1CD-C55411887C40}
+	EndGlobalSection
+EndGlobal
